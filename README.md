@@ -1,0 +1,2 @@
+# stealer
+ An infostealer malware.
